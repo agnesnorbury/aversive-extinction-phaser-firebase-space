@@ -1,0 +1,24 @@
+Game art was developed using assets in the public domain, sourced from https://www.gameart2d.com/
+and https://opengameart.org/ 
+
+Please see below for specific licensing information.
+
+Robot sprite:
+source: https://www.gameart2d.com/the-robot---free-sprites.html
+license: CC0 (https://www.gameart2d.com/license.html free assets license)
+
+Platformer tileset A:
+source: https://www.gameart2d.com/free-sci-fi-platformer-tileset.html
+license: CC0 (https://www.gameart2d.com/license.html free assets license)
+
+Platformer tileset B:
+source: https://opengameart.org/content/sci-fi-platform-tiles
+license: CC0
+
+Space background image:
+source: https://opengameart.org/content/space-background
+license: CC0
+
+Rocket image:
+source: https://opengameart.org/content/rocket
+license: CC-BY 3.0
