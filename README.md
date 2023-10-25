@@ -4,7 +4,7 @@ Repository with code for a gamified online extinction learning task (space versi
 
 <img src="./task1.gif" width="50%" height="50%"/>
 
-Play a demo version [here](https://run.pavlovia.org/agnes.norbury/study-game-1-demo/) (no data will be stored).
+Play a demo version [here](https://modcomp-ae1.web.app/) (no data will be stored).
 
 UI functionality was built using [rexUI plugins](https://rexrainbow.github.io/phaser3-rex-notes/docs/site/ui-overview/) for phaser3.
 
